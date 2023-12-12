@@ -1,6 +1,6 @@
 # Bike_Sharing_Demand_Prediction_ML_Regression
 
-Project Type - Unsupervised
+Project Type - Supervised(Regression)
 
 Contribution - Team
 
